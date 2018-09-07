@@ -1,5 +1,8 @@
 # uniscape
 
+[![Travis-CI Build Status](https://travis-ci.org/mvkorpel/uniscape.svg?branch=master)](https://travis-ci.org/mvkorpel/uniscape)
+[![Coverage Status](https://img.shields.io/codecov/c/github/mvkorpel/uniscape/master.svg)](https://codecov.io/github/mvkorpel/uniscape?branch=master)
+
 Find location of single and double quoted strings in
 [R](https://www.r-project.org/) code. Convert non-ASCII strings to a portable
 format using Unicode escape codes.
