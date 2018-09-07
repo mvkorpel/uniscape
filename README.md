@@ -1,6 +1,7 @@
 # uniscape
 
 [![Travis-CI Build Status](https://travis-ci.com/mvkorpel/uniscape.svg?branch=master)](https://travis-ci.com/mvkorpel/uniscape)
+[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/mvkorpel/uniscape?branch=master&svg=true)](https://ci.appveyor.com/project/mvkorpel/uniscape)
 [![Coverage Status](https://img.shields.io/codecov/c/github/mvkorpel/uniscape/master.svg)](https://codecov.io/github/mvkorpel/uniscape?branch=master)
 
 Find location of single and double quoted strings in
