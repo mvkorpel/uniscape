@@ -1,0 +1,16 @@
+Package: uniscape
+Type: Package
+Title: Create Portable Strings
+Version: 0.1
+Authors@R: c(person("Mikko", "Korpela", role = c("aut", "cph", "cre"),
+             email = "mvkorpel@iki.fi"))
+Author: Mikko Korpela [aut, cph, cre]
+Maintainer: Mikko Korpela <mvkorpel@iki.fi>
+Depends: R (>= 3.0.0)
+Imports: rstudioapi (>= 0.4)
+Suggests: covr, mockery, testthat
+Description: Find location of single and double quoted strings in R code.
+    Convert non-ASCII strings to a portable format using Unicode escape codes.
+License: GPL (>= 2)
+Encoding: UTF-8
+RoxygenNote: 6.1.0

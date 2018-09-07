@@ -1,0 +1,14 @@
+Name: Escape selection
+Description: Escape all non-ASCII characters in selection
+Binding: escapeAllAddin
+Interactive: false
+
+Name: Escape selected strings
+Description: Escape non-ASCII R strings in selection
+Binding: escapeStringsAddin
+Interactive: false
+
+Name: Escape strings in file
+Description: Escape non-ASCII R strings in current source file
+Binding: escapeFileAddin
+Interactive: false
