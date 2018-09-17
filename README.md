@@ -11,6 +11,8 @@ format using Unicode escape codes.
 The package contains [RStudio](https://www.rstudio.com/) addins for making
 portable non-ASCII strings. The core functions also work in plain R, without
 RStudio.
+
+![Strings converted with RStudio addin](https://raw.githubusercontent.com/mvkorpel/uniscape/master/media/escape_strings.png)
     
 ## Installation
 
